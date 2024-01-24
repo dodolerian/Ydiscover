@@ -1,4 +1,8 @@
 from cryptography.fernet import Fernet
+from art import *
+from termcolor import colored
+print(colored(text2art("Yrepair").center(60),'green'))
+print(colored("ransomware despawning".center(50),'cyan'))
 import os
 def decrypt(items,clef):
     f=Fernet(clef)

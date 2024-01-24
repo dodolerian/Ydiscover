@@ -1,7 +1,7 @@
 from art import *
 from termcolor import colored
-print(colored(text2art("Techwall").center(60),'cyan'))
-print(colored("ransomware created by our channel Techwall".center(50),'red'))
+print(colored(text2art("Yhacking").center(60),'red'))
+print(colored("ransomware in your computer".center(50),'red'))
 import os
 def create_dir(directory):
     if not os.path.exists(directory):
