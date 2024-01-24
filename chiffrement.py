@@ -12,15 +12,15 @@ def write_file(path,data):
     file = open(path,'w')
     file.write(data)
     return file
-def remplir_repertoire(dir):
-    with open(str(dir)+'/'+'file1.txt','w') as file :
-        file.write("Ce contenu est très important ....")
-        file.write("les informations de nos chers clients ...")
-    with open(str(dir)+'/'+'file2.txt','w') as file :
-        file.write("Ce contenu est très important ....")
-        file.write("les informations de nos chers clients ...")
+# def remplir_repertoire(dir):
+#     with open(str(dir)+'/'+'file1.txt','w') as file :
+#         file.write("Ce contenu est très important ....")
+#         file.write("les informations de nos chers clients ...")
+#     with open(str(dir)+'/'+'file2.txt','w') as file :
+#         file.write("Ce contenu est très important ....")
+#         file.write("les informations de nos chers clients ...")
 pwd=create_dir('files')
-remplir_repertoire(pwd)
+# remplir_repertoire(pwd)
 from cryptography.fernet import Fernet
 items=os.listdir(pwd)
 #print(items)

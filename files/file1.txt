@@ -7,4 +7,4 @@ Nom: Lefevre, Prénom: Antoine, Email: antoine.lefevre@email.com, Mot de passe: 
 Nom: Simon, Prénom: Chloe, Email: chloe.simon@email.com, Mot de passe: 66f648615c8f1462d365ebd4cf3e0e08
 Nom: Girard, Prénom: Nicolas, Email: nicolas.girard@email.com, Mot de passe: 90fe37bb2b93c5981ed10e5d09e229c6
 Nom: Martinez, Prénom: Emily, Email: emily.martinez@email.com, Mot de passe: c07299e9e1e50edf3c8b3b5b1d56d65f
-Nom: Mercier, Prénom: Lucas, Email: lucas.mercier@email.com, Mot de passe: 1f3870be274f6c49b3e31a0c6728957f
+Nom: Mercier, Prénom: Lucas, Email: lucas.mercier@email.com, Mot de passe: 1f3870be274f6c49b3e31a0c6728957ft
